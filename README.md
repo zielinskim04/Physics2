@@ -18,5 +18,7 @@ Repozytorium zawiera pliki PDF z raportami z ćwiczeń laboratoryjnych z fizyki 
 - [Alicja Przeździecka](https://github.com/aprzezdziecka) 
 - [Katarzyna Skoczylas](https://github.com/kasia-sko) 
 - [Miłosz Zieliński](https://github.com/zielinskim04) 
-- Karol Socha - w "Hologram"
+- [Karol Socha](https://github.com/Keseres) - w "Hologram"
+
+
 
