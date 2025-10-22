@@ -1,4 +1,4 @@
-# Physics Lab Reports
+# Raportyz laboratoriów fizycznych 
 
 Repozytorium zawiera pliki PDF z raportami z ćwiczeń laboratoryjnych z fizyki (semestr letni 2025). Wszystkie raporty są w języku polskim — ich struktura i zawartość mogą być pomocne dla osób przygotowujących podobne sprawozdania.
 
